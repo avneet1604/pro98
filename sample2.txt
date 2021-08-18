@@ -1,0 +1,12 @@
+candidates who are pursuing in Class 12 are advised to revise the notes from this post.
+
+Whenever the magnetic flux linked with an electric circuit changes, an emf is induced in the circuit. This phenomenon is called electromagnetic induction.
+
+Faraday’s Laws of Electromagnetic Induction
+
+(i) Whenever the magnetic flux linked with a circuit changes, an induced emf is produced in it.
+
+(ii) The induced emf lasts so long as the change in magnetic flux continues.
+
+(iii) The magnitude of induced emf is directly proportional to the rate of change in magnetic flux, i.e.,
+
